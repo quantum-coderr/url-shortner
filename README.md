@@ -1,4 +1,4 @@
-# URL Shortener (Learning Project)
+# URL Shortener 
 
 A step-by-step URL shortener built in Go to learn layered backend design.
 
